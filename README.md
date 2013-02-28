@@ -129,7 +129,6 @@ spring-dao配置文件
 
 
 cache.xml配置文件
-
 <?xml version="1.0" encoding="UTF-8" ?>
 <cache>
     <object name="com.sohu.spaces.entry.model.Entry" >
